@@ -11,5 +11,9 @@
     "Node.js"
   ],
   "author": "Mohit Sehgal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "kafkajs": "^2.2.4"
+  }
 }
