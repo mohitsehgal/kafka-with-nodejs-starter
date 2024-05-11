@@ -1,0 +1,15 @@
+{
+  "name": "kafka-with-nodejs-starter",
+  "version": "1.0.0",
+  "description": "Kafka Starter in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kafka",
+    "Node.js"
+  ],
+  "author": "Mohit Sehgal",
+  "license": "ISC"
+}
