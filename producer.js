@@ -13,7 +13,7 @@ let main = async function(){
 
     await producer.connect()
     await producer.send({
-      topic: 'quickstart-events',
+      topic: 'demo-topic',
       messages: [
         { value: 'Hppy world!' },
       ],
